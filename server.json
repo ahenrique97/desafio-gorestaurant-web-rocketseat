@@ -26,11 +26,18 @@
     },
     {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "Macarrão com alho poró",
-      "price": "22.80",
-      "description": "Uma excelente massa com alho poró",
+      "name": "Entrecote de cordeiro",
+      "price": "99.90",
+      "description": "Um clássico frânces",
+      "id": 5
+    },
+    {
+      "image": "asdasd",
+      "name": "jkkjljolklkll",
+      "price": "asdasd",
+      "description": "asdasd",
       "available": true,
-      "id": 4
+      "id": 6
     }
   ]
 }
