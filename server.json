@@ -25,19 +25,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "Entrecote de cordeiro",
-      "price": "99.90",
-      "description": "Um clássico frânces",
-      "id": 5
-    },
-    {
-      "image": "asdasd",
-      "name": "jkkjljolklkll",
-      "price": "asdasd",
-      "description": "asdasd",
+      "name": "asdasdasdasd",
+      "description": "asdasdasdasd",
+      "price": "asdasdasdasd",
+      "image": "asdasdasd",
       "available": true,
-      "id": 6
+      "id": 4
     }
   ]
 }

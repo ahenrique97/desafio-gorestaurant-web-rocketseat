@@ -53,11 +53,7 @@ const Dashboard: React.FC = () => {
   async function handleUpdateFood(
     food: Omit<IFoodPlate, 'id' | 'available'>,
   ): Promise<void> {
-    // TODO UPDATE A FOOD PLATE ON THE API
-    const response = await api.put(`/foods/${editingFood.id}`, {
-      ...food,
-      available: true,
-    });
+    const response = await api.put(`/foods/${editingFood.id}`, food);
 
     const oldFoodIndex = foods.findIndex(item => item.id === editingFood.id);
 
